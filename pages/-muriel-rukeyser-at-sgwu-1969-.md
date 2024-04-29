@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i>
+title: Annotating a Duality of Spaces in Muriel Rukeyser's The Speed of Darkness
 manifest_name: "-muriel-rukeyser-at-sgwu-1969-"
 permalink: "-muriel-rukeyser-at-sgwu-1969-"
 external_manifest_url: https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/manifest.json
@@ -8,7 +8,7 @@ external_manifest_url: https://hipstas.github.io/The-speed-of-darkness/annotated
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
-# Abstract 
+# Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i>
 
 In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled “The Speed of Darkness” at Sir George Williams University. I argue in this project that digitally-annotating Rukeyser’s reading of the spaces between each stanza in this poem facilitates a new, sonic reading of the poem, one which is shaped through the practice of listening to “doubleness” in “The Speed of Darkness.”
 
