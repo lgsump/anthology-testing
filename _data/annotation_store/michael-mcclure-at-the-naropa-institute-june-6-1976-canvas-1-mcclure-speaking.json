@@ -1,0 +1,163 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/anthology-testing/annotations/michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking.json",
+  "type": "AnnotationPage",
+  "label": "McClure speaking",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I'm going to read a couple of poems in Beast Language which are actually from the early '60s and not the '50s, and then we're going to take a break-ten minutes or so.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3522.0,3533.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That's Chaucer actually. It makes a nice introduction.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3547.0,3555.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I was always afraid to recite this other one. Although I knew it by heart, I was afraid to recite it because I thought I might not be able to stop.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3630.0,3636.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's very mantric. And I thought I'd be giving a reading and they'll carry me away at the end. I'll still be going Grahhr! Grahhr! So,",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3638.0,3647.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "michael-mcclure-at-the-naropa-institute-june-6-1976-canvas-1-mcclure-speaking-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "recently I was in one of John Lilly's isolation tanks and I thought, what a perfect time to do this thing I've always been afraid to do. [Audience laughs] What difference would it make here? So I did, and I did know it by heart, but I think I'll read it here anyway.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/michael-mcclure-at-the-naropa-institute-june-6-1976/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "3648.0,3661.0"
+        }
+      }
+    }
+  ]
+}
