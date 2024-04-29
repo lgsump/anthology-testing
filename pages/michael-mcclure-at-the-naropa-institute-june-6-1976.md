@@ -1,6 +1,6 @@
 ---
 layout: item
-title: Out of the Cage: Michael McClure and the Digital Lyric Archive
+title: Out of the Cage - Michael McClure and the Digital Lyric Archive
 manifest_name: michael-mcclure-at-the-naropa-institute-june-6-1976
 permalink: michael-mcclure-at-the-naropa-institute-june-6-1976
 external_manifest_url: https://hipstas.github.io/out-of-the-cage-michael-mcclure-and-the-digital-lyric-archive/michael-mcclure-at-the-naropa-institute-june-6-1976/manifest.json
