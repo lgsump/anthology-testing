@@ -1,6 +1,6 @@
 ---
 layout: item
-title: '"Muriel Rukeyser at SGWU, 1969"'
+title: Annotating a Duality of Spaces in Muriel Rukeyser's <i>The Speed of Darkness</i>
 manifest_name: "-muriel-rukeyser-at-sgwu-1969-"
 permalink: "-muriel-rukeyser-at-sgwu-1969-"
 external_manifest_url: https://hipstas.github.io/The-speed-of-darkness/annotated-spaces-in-the-speed-of-darkness-/manifest.json
