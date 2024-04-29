@@ -38,7 +38,9 @@ Just as he feared, online collections like [SpokenWeb](https://spokenweb.ca/) (2
 
 *Thank you to Tony Power at Simon Frasier University’s Bennett Library for his help navigating McClure’s audio record.*
 
-**Works Cited**
+<hr>
+
+# Works Cited
 
 Belgrad, Daniel. *The Culture of Feedback: Ecological Thinking in Seventies America.* University of Chicago Press, 2019.
 
@@ -57,3 +59,5 @@ Lilly, John C. *The Deep Self: Consciousness Exploration in the Isolation Tank.*
 McClure, Michael. *Ghost Tantras.* City Lights Publishers, 2013.
 
 ---. *Scratching the Beat Surface.* North Point Press, 1982.
+
+<hr>
