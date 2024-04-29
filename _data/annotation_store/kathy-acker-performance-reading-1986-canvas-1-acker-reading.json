@@ -1,0 +1,2116 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/anthology-testing/annotations/kathy-acker-performance-reading-1986-canvas-1-acker-reading.json",
+  "type": "AnnotationPage",
+  "label": "Acker reading",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Reading from Empire of the Senseless, Chapter II. \"Raise Us From the Dead,\" (Thivai speaks), Male.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "38.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As long as I can remember...",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "40.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As long as I can remember, I've wanted to be a pirate. As long as I can remember, I've wanted to sail the navy seas. As long as I can remember wanting, I've wanted to slaughter other humans and to watch the emerging of their blood.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "45.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Insofar as I know myself, I don't know either the origin or the cause of my wants.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "61.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It was a dark night for pirates.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "68.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Winter had approached all of us on the ship. One night whose beginning was death, three pirates squatting on the deck just like fat cunts or pigs held a consultation which lingered, like death, without becoming anything else. For one human they had taken during their last battle remained bound and gagged near the bowsprit. Their discussion became more confused, then too confused, at least for the victim who could still hear; the pirates had become increasingly drunk. A fat slob waddled over to the victim who was a child and raped her again.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "72.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "She didn't struggle as the other two did the same.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "119.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Afterwards, I'd like to do it to you,’ the first pirate turned to the second pirate.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "121.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘No. I'm younger than you, so it's possible for me to have a child. I don't want one. Just cause it's safe for you...’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "127.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Not if I do it in your asshole. In your asshole, you're safe.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "134.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Just stop what you're doing. Above all I don't wanna be pregnant!’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "138.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘You don't believe me. You don't trust…’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "142.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘No.’ The second one explained: ‘Why should I trust you? You just tell me why I should trust you? You tell me why I should trust you who can't get pregnant not to make me pregnant.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "144.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The third pirate came in his pants. A round stain showed.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "156.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Don't you believe I can fuck you and not make babies?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "161.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fatty replied ‘I promise’ since he never meant anything by these words. ‘But you're gonna spread yourself for me now. Otherwise I want that thin trigger that thin cock you're showing me so much, I'll cut off your head to get at it.’ Among themselves, also, pirates’re very murderous. ‘But after I come, when you're dead, then you can do whatever you want.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "177.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fatty dove in, ground and pounded his cock up into the so tight it was almost impenetrable asshole. He pound and ground until the brat started wiggling; then thrust hard. Thrust fast. Living backbone. Jewel at top of hole. The asshole opened involuntarily. The kid screeched like nerves. After a while the kid felt Fatty become still. After a few more minutes he asked Fatty if he had come.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "202.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Shut up. Shut. Up.’ As it dropped out the final bit of sperm enflamed the top of his cockhole.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "237.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Barely mumbling ‘Now it's time for me now it's time for what I want’, the pirate who had just been fucked bent over the child tightly bound in ropes, already raped. His hands reached for her breasts. While sperm which resembled mutilated oysters dropped out of his asshole, he touched the breasts.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "247.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The three pirates turned away from the child. They went back to their work of gnawing and gorging themselves on Nestle’s almonds, Cadbury chocolate flakes, barbecue tortilla chips, green benas, toffeed vanilla, Lucozade, and Mars bars. They guzzled down can after can of swill.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "269.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The Captain, me, walked out on deck. ‘What a group of pigs! Didn't all of your teachers in all the nice boarding schools you went to, which you never talk about, didn't they teach you about nutrition?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "289.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘This ship isn't a public school,’ Fatty blurted out through showers a Coca-Cola mixed with beer. ‘This shit is a pirate ship. And this is a philanthropic association.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "308.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Sure,’ Captain Thivai, me, sneered. ‘I'm a sweet socialist government so I'm paying you to sit on your asses in the sun and get suntanned just that so that you are so happy you will not revolt against my economic fascism.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "320.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Fatty dared to oppose me. ‘No way. This ship is our philanthropic association, our place of safety, our baby crib. Since they have enough dough to be our charity donors, all the people outside it, all the people outside us here, are our enemies.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "339.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Since we live on this ship, we're orphans. Orphans are dumb and stupid.’ Fatty was epileptic. ‘Since we're stupid, we don't know how to conduct ourselves in decent monied society, and we kill people for no reason.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "360.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Historically, weren't some of the most violent political murderers,’ the punk added, ‘aristocrats?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "373.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Do all of you have parents?’ I asked my crew, for I was astounded. ‘Do you generally come from good backgrounds?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘How can I answer a generality? So how can I answer any question?’ Fatty obviously came from a superior background.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "390.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Do you,’ pointing my finger at the youngest therefore the weakest of the lot, ‘do you, personally, have parents?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "399.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘I don't have parents.’ ‘Me neither.’ ‘Him also?’ ‘No one.’ ‘None.’ ‘No one has nothing anymore.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "408.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Then who did you come out of and where'd you come from?’ I wasn't gonna be fooled by the scum.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "419.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘That's our business. Each one of us.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "426.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The English pirate answered, ‘We're not used to discussing our private affairs. It's not your business on whom we piss.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "428.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I had to agree with the English, for it was necessary for me to trust my crew about whom I knew nothing except that they were not the scum of the earth, they were the scum of the now scum-filled seas.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "435.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And the next day, when the ship stopped near a shore in which a bordello was stretching out its claws, I jumped ship. A cock cried on the top of a hill. Rooster's red crest jumped through the weighted-down grasses. A guard and his heavy gun descended. I hid from him.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "448.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Where there were buildings huge trees had showered dew onto the red roofs. My fear dried up my throat. My hands lay over my stomach for protection. The sun… Fear disintegrated my throat… Stunned…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "471.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I woke. I was no longer free. Words woke me. ‘It's me, Xaintrilles. This morning the General Staff will interrogate you. Good luck’n all that. I'm leaving for Ait Saada.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "494.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I didn't speak.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "510.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Xaintrilles squatted down on his haunches and looked at the bars. He saw a young man spread flat on the floor, still, his knees apart, a sackcloth jacket only over part of his stomach.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "512.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Thivai, aren't you listening to me? Maybe you can't hear anymore?’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "529.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I recognized despair enough to open my senses only inside me. Lice gnawed my cropped head. Xaintrilles carried this body inside, chafed hands and knees.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "535.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the deep river firemen and convoy soldiers washed themselves. Mud scintillated around the decaying bath-house.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "551.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I lovingly rubbed my skull, the light wounds the hair chopper had made. ‘Shave me. To the flesh,’ I said.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "559.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The gentle hair-cutter, as soon as his officer had left, positioned the straight razor at the front of the forehead.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "569.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Thivai, I can't. There's not enough left.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "576.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Upon returning, the officer looked at the prisoner and ordered the barber to shave him totally.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "580.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-46.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As they were cut, they brushed by the ears, the holes of the nostrils, caught in the eyebrows, mommy, I only went the hairdresser to cut off a lock of hair, my matchstick, mommy's sitting in the armchair, mommy's holding my knee, mommy's picking up a magazine, mommy puts it on her knees. Véronique’s behind the mirror.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "612.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-47.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Véronique stands upright. Then the hairdresser pushes her down while Véronique makes signs which the mirror reflects. The cut hairs brush past the beehive I've hidden in my shirt; mommy leaves, forgetting her purse. She walks through the rain along the river. Am I dreaming? The haircutter looks around him, he puts his hand on the hot flannel of my pants, his hand climbs up my thigh, I look at Véronique.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "636.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-48.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It's she who's raping me it's she who's touching me, mommy's screaming out loud and crying in the rain. Dock workers drag barbed wire sheets through the slush. Mommy bites her soaked scarf. The haircutter's hand sinks between my knees; again I push it away; his other hand travels down my stomach; my knees hit the marble washbasin which nevertheless maintains its balance; the haircutter's hand rest openly on my obviously palpitating stomach. The hairdresser looks behind him.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "660.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-49.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Under the door, mommy's drying her shoes. She enters the room. Night fell. Her wet hands hold my small ones, I fall into the armchair; mommy pays the hairdresser; he presses me against the door.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "705.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-50.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Mommy drags me out, down black streets until we reach the river. The dock workers’re trying to warn themselves by standing as close as possible to a fire made out of charcoal dust. Mommy, holding me in her arms, jumps into the thicker mist. She mounts the jetty and runs over the rocks. Snow is covering the rocks. I try to writhe myself away, but she's pressing me into her hips.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "724.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-51.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I bite her hand, while a tug-boat whose bright port dead-lights are throwing glimmers on a black oily sea, moves down the estuary; mommy throws herself,…, I bite her hand, as her arms let go, I fall down the rocks, rolling down the rocks, mommy falls into the sea my mother's suicide, the foam finds and recovers her, I twist my body round towards the rocks. There a wave carries my mother's head. Her palms slide along a sleek, slightly glittering rock. The tug-boat bears the other way, then stops; a sailor runs on to a bridge; he unfastens a yawl, runs back on board; they row to the jetty.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "753.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-52.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Beneath the clouds the stars are shining. My head's bathing in a small abandoned puddle. The sailor jumps on to the jetty, lifts me in his strong arms, up, and strokes my forehead and left cheek. The other sailors shipped their oars and, lifting up my mother's body, bear it over a huge flat rock. The sailor puts me to bed. From the tip of the tent’s main peg a lantern was barely balancing. My blood flowed into my hands. The sailors telephoned, held my hands in theirs, covered my face. They tore the khaki posters and bills open…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "800.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-53.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "After the jeeps and lorries had left, wounded on the forehead now by the rising sun, I placed my sackcloth jacket over my face. The rest was naked. The flies in the toilet and the wine-press the soldiers had for their own convenience were gnawing at the barrier wires’ edges; they darted forward, leapt over the curly locks, so I trembled, opened my thighs. The morning breeze cooled down the thighs and the sexual mass. The flies stole…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "848.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-54.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Again Véronique tosses her hairs behind her; I take hold of this hair and throw my face into it; Véronique turns around and places my head in her hands:",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "888.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-55.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Xaintrilles wet-kissed me in the garden.’",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "903.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-56.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I throw my arms around her waist, then I eat at her mouth; revolving her thighs rub and press themselves against my stomach; though she's pushing back my arms, I kiss her eyelids; her hand rubs my back, my waist; her eyelids taste of mud; the sweat wets my opened shirt.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "907.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-57.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "As soon as she laughs, I turn her over under me on the armchair. The wind bangs the books on the table shut. My hand burrows like a mole in her clothes. Over a teat. Trembles. Under my hand the teat is hot. I stroke the other teat. With the second hand I unhook the dress. And tongue the teat’s tip. ‘And me,’ she pants. She crushes my mouth by her breast. Wide open the windows look over the park. Xaintrilles walks through the thick grass, his gun erect.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "928.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-58.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "‘Don't be so hard,’ he tells me. ‘You're breaking my legs.’ I crawl over him. Sirens stain the distance.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "964.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-59.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Today there are no more pirates therefore I can't be a pirate. I know I can't be a pirate because there are no more pirate ships.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-60.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In 1574 there were pirate ships.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "986.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-61.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "By that time the total halt of legal, or national, European wars forced the French and German soldiers either to disappear or to become illegal - pirates. Being free of both nationalistic and religious concerns and restrictions, privateering’s only limitation was economic. Piracy was the most anarchic form of private enterprise.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "989.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-62.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thus, at that time, in one sense, the modern economic world began. In anarchic times, when anyone could become any one and any thing, corsairs, free enterprisers roamed everywhere more and more…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1015.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-63.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Murderers killed murderers…",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1032.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-64.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Human beings are good by nature. This is the credo of those who are liberals, even pacifists, during times of national and nationalistic wars.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1036.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-65.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But in 1574, when regular, regulated war, that is, national war, which the nations involved had maintained at huge expense only via authoritarian expansion, ceased: the sailors the soldiers the poor people the disenfranchised the sexually different waged illegal wars on land and sea.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1048.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-66.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "War, if not the begetter of all things, certainly the hope of all begetting and pleasures. For the rich and certainly for the poor. War, you mirror of our sexuality.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1077.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "kathy-acker-performance-reading-1986-canvas-1-acker-reading-annotation-67.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I who would have and would be a pirate: I cannot. I who live in my mind which is my imagination as everything - wanderer adventurer fighter Commander-in-Chief of the Allied Forces - I am nothing in these times.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/kathy-acker-performance-reading-1986/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/performance-reading-acker/kathy-acker-performance-reading-1986/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "PointSelector",
+          "t": "1092.0"
+        }
+      }
+    }
+  ]
+}
