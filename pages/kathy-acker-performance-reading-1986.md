@@ -23,6 +23,8 @@ Acker’s vulnerability to the audience’s comments mirrors the audience’s vu
 
 Members of the audience are negotiating their shock through non-verbal forms of engagement such as laughter, sometimes accompanying moments of sexual violence in the text, and the noisy manipulation of objects. Sianne Ngai maintains that laughter and boredom—which could be signalled by the manipulation of objects creating noise—bring us “to ask what ways of responding our culture makes available to us, and under what conditions” (262). Producing noise might be a way for auditors to anchor themselves back in their body through tactile and auditory stimulation, to create a distance with the verbal performance, and to produce a counter discourse. Noise can challenge Acker’s authority as a speaker talking to a silent audience. I believe this is an effect that her performance wishes to provoke through shock. Acker’s performance neither invites a silent crowd (such as the passive audience of academic poetry readings) nor a completely supportive one (like the Beats’ friendly and evangelical-like auditory) (MacArthur 56). The dynamic between Acker and her audience is neither framed by formalism nor facilitated by friendship. Yet it is maybe in this situation of discomfort that both audience and speaker are brought to formulate questions and weave affinities.
 
+<hr>
+
 # Works Cited
 
 Acker, Kathy. Empire of the Senseless. 1988. Grove Press, 2018.
