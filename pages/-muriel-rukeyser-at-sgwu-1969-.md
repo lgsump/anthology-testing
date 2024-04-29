@@ -8,3 +8,47 @@ external_manifest_url: https://hipstas.github.io/The-speed-of-darkness/annotated
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
+# Abstract 
+
+In 1969, American poet Muriel Rukeyser read a group of thirteen poems entitled “The Speed of Darkness” at Sir George Williams University. I argue in this project that digitally-annotating Rukeyser’s reading of the spaces between each stanza in this poem facilitates a new, sonic reading of the poem, one which is shaped through the practice of listening to “doubleness” in “The Speed of Darkness.”
+
+# Introduction 
+
+“The poem I’ll read this evening is a group. The group is called ‘The Speed of Darkness’” (Rukeyser “Muriel Rukeyser at SGWU, 1969). Here, Muriel Rukeyser, twentieth-century American poet, prefaces her reading of the poem sequence that forms the title of her most recent collection of poetry, The Speed of Darkness. At around the fortieth-minute of this reading at Sir George Williams University (SGWU, now Concordia University), she states that this is a collection of “short poems” and that she’ll “just pause between poems.” She jokes that “there should be numbers going up in back of me; one, two, three,” and the audience laughs. But “I’ll just pause,” she responds (Rukeyser “Muriel Rukeyser at SGWU, 1969).  I argue in this project that digitally-annotating Rukeyser’s reading of these spaces facilitates a new, sonic reading of the poem, one which is shaped through the practice of listening to “doubleness” in ‘The Speed of Darkness’. 
+
+In this moment, Rukeyser details how she will read and delineate between stanzas in the “group” of poems that make up ‘The Speed of Darkness’. In her in-person reading, she will “just pause” between each part of this “group”—or, later in 1972, what she calls a “series” (Mitts 2015)—to note the gaps more easily identified in their visual, textual form. However, in SpokenWeb’s recording of her reading, any visual reference is left out, which further complicates the spaces between stanzas in this group of poems. What was visually “brought into relation with the other through juxtaposition” (Mitts 2015) becomes mixed up, confused, and complicated in the audio recording of Rukeyser’s reading.
+
+## Dreams in Doubleness
+
+To listen to spaces in ‘The Speed of Darkness,’ instead of viewing them in their textual form, affirms a sense of “doubleness” that Rukeyser finds in her own poetry. She asserts that there are “two kinds of poems,” the first being “the document, the poem that rests on material evidence” (Rukeyser, “Education of a Poet,” 226). The material, in this sense, applies to the visual, physical form of a space that is represented in and as a blank space on a page which separates one stanza from the next. In contrast to this are “the poems of unverifiable facts, based in dreams, in sex, in everything that can be given to other people only through the skill and strength by which it is given” (Rukeyser, “Education of a Poet, 226). The audio recording of her reading these spaces lacks the material document of a visual space, practicing the unverifiability of listening to the in-betweens of not only dialogue but poetics.
+
+---
+
+> <img width="484" alt="fig 2" src="https://user-images.githubusercontent.com/112954339/207118730-f48ac31d-3659-4b78-8230-a12b95277f86.png">
+
+#### Figure 2: Fifth stanza of Rukeyser's "The Speed of Darkness"
+---
+
+Take for example the fifth stanza in ‘The Speed of Darkness’ as it is illustrated in Figure 1, which is similar to how it would be depicted in Rukeyser’s book—this stanza is located at minute 42:34 in SpokenWeb’s audio recording. In visual form, these spaces are material, recognizable. However, in her sonic reading of these spaces, they take on new meaning through their unverifiable, unlocatable, and immaterial nature within an audio recording. In other words, the spaces both within and separating stanzas are complicated in their sonic form. This is represented in Rukeyser’s exaggeration of syllables and the length of pauses that separate “between” and “between”—this delivery solidifies the “doubleness” of Rukeyser’s poetry, which opens up moments for new readings and ways of interpreting her poetry. Spaces, in her recorded reading, communicate the more subjective and dream-like meaning that is sometimes obfuscated in visual form. In this recording of Rukeyser’s reading, listening is an engagement with the “skill” and “strength” of the spaces which re-make new interpretations of “The Speed of Darkness.”
+
+## Annotating Spaces 
+
+Annotating these spaces promotes not only the recognition of “doubleness” that Rukeyser finds in her own poetry but, also, where dreams and the material meet in the process of listening to audio recordings. The annotations for “Muriel Rukeyser at SGWU, 1969” in SpokenWeb’s “Sir George Williams Poetry Series, 1966-1974” was accomplished by using AVAnnotate, a project that “builds on the new IIIF standards for AV to address the gaps in engaging with audio by developing a solution to bring together free audio annotation tools and the Web as a standardized collaboration and presentation platform” (Clement et al. 2022). In prior versions of this project, the annotations required a manual shortening of the “Muriel Rukeyser at SGWU, 1969” audio recording to only include the poem “The Speed of Darkness.” To do this, a free and open-source digital audio editor, Audacity, was used to cut the .mp3 file. After which the audio recording was annotated according to what is identified as spaces between the stanzas in the visual format of the poem. Moreover, the annotations also include an introduction by Muriel Rukeyser and the time at which she began to read each stanza. However, the final project includes the entire SpokenWeb recording to more fully contextualize the audience’s reactions, speaker remarks, and spaces in the title poem.
+
+Digitally-annotating thirteen spaces in “The Speed of Darkness” opens up opportunities for new readings that use the unverifiability of listening and materiality of visual form for engaging differently with Rukeyser’s work. The moments emerging after her plan to “just pause” between stanzas embody the “everything” that can possibly be given to the other through the “skill and strength” of spaces. While listening with each of these thirteen annotations, attention should be paid to how they impact the practice of listening to the recording, disrupt or inform interpretations of the poem, and illuminate different senses of doubleness found within, between, and across each stanza. 
+
+<img src= "https://user-images.githubusercontent.com/112954339/231001161-d375079a-44e4-4421-a66e-f2e2a8b877a0.jpeg" max-width="600" height="440" align="center">  
+
+<hr>
+
+## Works Cited
+
+Clement, Tanya, Ben Brumfield, and Sara Brumfield. "The AudiAnnotate Project: Four Case Studies in Publishing Annotations for Audio and Video." DHQ: Digital Humanities Quarterly 16.2 (2022).
+
+Mitts, Adam. “The Vocabulary of Silence: Voice and Disability in ‘The Speed of Darkness.’” The Muriel Rukeyser Living Archive, October 17, 2015. 
+http://murielrukeyser.emuenglish.org/2015/10/17/adam-mitts-the-vocabulary-of-silence-voice-and-disability-in-the-speed-of-darkness/.
+
+Rukeyser, Muriel. “Muriel Rukeyser at SGWU, 1969,” The Poetry Series, Sir George Williams University, 24 January 1969, SpokenWeb “Sir George Williams Poetry Series.”
+<br> —. “The Education of a Poet.” 1976. The Writer on her Work. Ed. Janet Sternberg. New York: W.W. Norton, 2000 217-30.
+
+<hr>
