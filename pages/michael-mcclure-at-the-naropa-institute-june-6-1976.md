@@ -34,7 +34,7 @@ The keyed annotations on the next page pursue this possibility by mapping McClur
 
 Just as he feared, online collections like [SpokenWeb](https://spokenweb.ca/) (2010), [PennSound](https://writing.upenn.edu/pennsound/) (2005), and [UbuWeb](https://www.ubu.com/) (1996) entail the permanent possibility that McClure will be “carr[ied] away” from the irenic plentitude of a lost moment in time—on digitized tape, he’ll “still be going Grahhr! Grahhr!” as long as we care to listen. At the same time, by bursting the isolation tank of the poetry reading, we can give speech a measure of its body back, the gurglings, drips, rumblings, heart, and pulsebeats. In the process, as listeners at the remove of the present “WE are translated” indeed--into the sonorous language of differences that history makes.
 
-**Acknowledgments**
+# Acknowledgments
 
 *Thank you to Tony Power at Simon Frasier University’s Bennett Library for his help navigating McClure’s audio record.*
 
