@@ -26,11 +26,15 @@ Members of the audience are negotiating their shock through non-verbal forms of 
 # Works Cited
 
 Acker, Kathy. Empire of the Senseless. 1988. Grove Press, 2018.
-<br>Butler, Judith. Gender Trouble, 1990, 2nd Edition, Routledge, 1999.
-<br>Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy 
+
+Butler, Judith. Gender Trouble, 1990, 2nd Edition, Routledge, 1999.
+
+Ioanes, Anna. “Shock and Consent in a Feminist Avant-Garde Kathleen Hanna Reads Kathy 
 <br> —. Acker.” Signs, vol. 42, no. 1, 2016, pp. 175–97.
-<br>MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, 
+
+MacArthur, Marit J. “Monotony, the Churches of Poetry Reading, and Sound Studies.” PMLA, 
 <br> —. vol. 131, no. 1, 2016, pp. 38–63.
-<br>Ngai, Sianne. Ugly Feelings, Harvard University Press, 2009.
+
+Ngai, Sianne. Ugly Feelings, Harvard University Press, 2009.
 
 <hr>
