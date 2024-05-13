@@ -10,6 +10,8 @@ external_manifest_url: https://hipstas.github.io/performance-reading-acker/kathy
 using HTML or markdown.  Do not modify this file above this line -->
 # Formulating Affinities and Defiances through Discomfort
 
+![ezgif com-gif-maker](https://github.com/lgsump/anthology-testing/assets/122332459/5da6aa81-5043-4e4e-81e4-a0a8b99f411f)
+
 This artifact is a video recording of a performance reading given by Kathy Acker at the Montréal bar Foufounes Électriques in 1986. I frame Acker’s rendition as a <i>performance reading</i> to highlight that both the moment of talk before and the period of reading itself are forms of performance—gender and artistic ones respectively. Both are instances of negotiation between Acker’s avant-garde aesthetic of shock and the audience who consented to the reading but maybe not to all its content. Their vulnerability to each other—Acker to the crowd’s disruptions and the audience to Acker’s violent text—are at play in this event.
 In this recording, Acker is reading excerpts from her then upcoming novel <i>Empire of the Senseless</i>. Her performance is marginal within the frame of literary readings where poetry has received more critical attention and where a lively delivery is understood as interfering with the text (MacArthur 43). A “neutral” style of reading, characterized by sameness of tone and resembling Judeo-Christian services, has thus become the default in academic readings (39, 42), obscuring the fact that reading out loud, and neutrality itself, are already performances.
 
