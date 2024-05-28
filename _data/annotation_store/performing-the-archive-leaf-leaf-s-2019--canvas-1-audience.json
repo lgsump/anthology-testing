@@ -1,0 +1,39 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://lgsump.github.io/anthology-testing/annotations/performing-the-archive-leaf-leaf-s-2019--canvas-1-audience.json",
+  "type": "AnnotationPage",
+  "label": "Audience",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-leaf-leaf-s-2019--canvas-1-audience-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt points out that \"you never know, when you're preparing for a reading, you feel like reading one poem and then when you get up there, you feel like reading another.\" People in the audience laugh.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": {
+          "id": "https://lgsump.github.io/anthology-testing/performing-the-archive-leaf-leaf-s-2019-/canvas-1/canvas",
+          "type": "Canvas",
+          "partOf": [
+            {
+              "id": "https://hipstas.github.io/hearing-lived-experience/performing-the-archive-leaf-leaf-s-2019-/manifest.json",
+              "type": "Manifest"
+            }
+          ]
+        },
+        "selector": {
+          "type": "RangeSelector",
+          "t": "485.0,495.0"
+        }
+      }
+    }
+  ]
+}
